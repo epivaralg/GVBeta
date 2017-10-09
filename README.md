@@ -1,0 +1,2 @@
+# GVBeta
+repositio de seminario
